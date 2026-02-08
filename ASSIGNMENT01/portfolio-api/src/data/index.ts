@@ -29,7 +29,7 @@ interface ContactMessage {
 
 // Portfolio data
 export const profile: Profile = {
-  name: "Alex Johnson",
+  name: "Alen joshy",
   title: "Full Stack Developer",
   summary: "Student and aspiring software developer with a passion for building web applications and learning new technologies. Currently seeking opportunities to gain real-world experience and contribute to impactful projects."
 };
